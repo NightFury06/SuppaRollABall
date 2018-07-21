@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5f4d21e57a59ee947ae1b04f53968aa4
+timeCreated: 1518650178
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH Super Science
+  fontNames:
+  - JMH Super Science
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a4a364519e15424e8cecd4640e6adcb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
